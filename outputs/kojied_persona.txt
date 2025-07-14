@@ -1,0 +1,28 @@
+# Reddit User Persona: kojied
+
+## Overview
+- Username: kojied
+- Total Posts: 15
+- Total Comments: 30
+- Most Active Period: Afternoon (12pm–5pm UTC)
+- Average Post Score: 18.9
+- Average Comment Score: 3.5
+- NSFW Post Percentage: 0.0%
+- Spoiler Post Percentage: 6.7%
+- Original Content Percentage: 73.3%
+- Edited Comment Percentage: 3.3%
+
+## Inferred Insights
+**Persona:**
+
+1. **Topics of Interest**: The user appears to have a keen interest in strategy games, farming simulations, and crafting or building aspects. They also seem passionate about resource management, city-building, and expansion strategies. Additionally, they show an interest in art and technology as evidenced by questions regarding character consistency and image-to-video features.
+
+2. **Motivations & Values**: The user values efficiency, optimization, and strategic thinking. They are interested in exploring various methods to improve gameplay performance, such as resource storage, trade strategies, and urban planning. They also seem to appreciate creativity, as seen by their question about maintaining character consistency.
+
+3. **Frustrations & Pain Points**: The user encounters issues with balancing resources, especially when upgrading or expanding cities/towns. They express concerns about limited food supplies, demand for resources escalating upon leveling up, and the impact of such challenges on game progress.
+
+4. **Personality Traits**: Meticulous, analytical, strategic, creative, and adaptable. The user tends to approach problems in a systematic manner, demonstrating an interest in finding optimal solutions. They are also curious and innovative, as shown by their question regarding character consistency and image-to-video features.
+
+5. **Behaviour and Habits**: The user engages in discussions related to strategies and tactics for various games, shares personal experiences, and asks questions to improve gameplay. They also demonstrate a habit of planning and organizing resources within the context of these games.
+
+6. **Goals and Needs**: The user's primary goal is to optimize their performance and enjoyment in strategy games, with a focus on resource management, city-building, and expansion strategies. They need guidance and advice from others in the community to help navigate challenges and improve their gameplay experience. Additionally, they seek information about creative aspects of gaming, such as character consistency and image-to-video features.
