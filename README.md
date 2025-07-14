@@ -3,6 +3,9 @@
 This project extracts and analyzes a Reddit user's public activity (posts and comments) to generate a **User Persona** based on behavioral and content patterns. The persona includes key psychological and activity-based insights with references to the user's own content.
 
 ---
+## 🎬 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/-RW85a-uk7E/0.jpg)](https://www.youtube.com/watch?v=-RW85a-uk7E)
 
 ## 📋 Table of Contents
 
@@ -50,8 +53,8 @@ This project extracts and analyzes a Reddit user's public activity (posts and co
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/reddit-user-persona.git
-cd reddit-user-persona
+git clone https://github.com/EshwarAdduri/reddit-persona-generator.git
+cd reddit-persona-generator
 ```
 
 ### 2. Create & Activate a Virtual Environment (Recommended)
