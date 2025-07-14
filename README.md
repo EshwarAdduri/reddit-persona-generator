@@ -51,7 +51,7 @@ This project extracts and analyzes a Reddit user's public activity (posts and co
 
 ```bash
 git clone https://github.com/EshwarAdduri/reddit-persona-generator.git
-cd reddit-user-persona
+cd reddit-persona-generator
 ```
 
 ### 2. Create & Activate a Virtual Environment (Recommended)
